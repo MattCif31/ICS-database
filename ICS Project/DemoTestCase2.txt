@@ -1,0 +1,15 @@
+PA1
+Customer Information:
+Vlaho
+Munira
+32 Brown Blvd
+8002341623
+40000.0
+Active
+Personal
+Vehicle Info:
+Toyota
+Sedan
+2013
+Used
+

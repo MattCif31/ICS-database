@@ -1,0 +1,45 @@
+PA1
+Customer Information:
+Vlaho
+Munira
+32 Brown Blvd
+8002341623
+40000.0
+Active
+Personal
+Vehicle Info:
+Toyota
+2013
+Sedan
+Used
+
+PA2
+Customer Information:
+Velibor
+Marloes
+76 Little Street
+3002338912
+60000.0
+Inactive
+Business
+Vehicle Info:
+Nissan
+2013
+Sport
+Certified Pre-Owned
+
+PA2
+Customer Information:
+Zeus
+Payam
+10 Needmore Street
+8023341623
+100000.0
+Active
+Both
+Vehicle Info:
+Lexus
+2019
+Other
+Other
+

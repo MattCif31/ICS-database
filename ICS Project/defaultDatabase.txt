@@ -1,0 +1,90 @@
+PA1
+Customer Information:
+Vlaho
+Munira
+32 Brown Blvd
+8002341623
+40000.0
+Active
+Personal
+Vehicle Info:
+Toyota
+2013
+Sedan
+Used
+
+PA2
+Customer Information:
+Velibor
+Marloes
+76 Little Street
+8002338912
+60000.0
+Inactive
+Business
+Vehicle Info:
+Nissan
+2013
+Sport
+Certified Pre-owned
+
+PA2
+Customer Information:
+Zeus
+Payam
+10 Needmore Street
+8023341623
+100000.0
+Active
+Both
+Vehicle Info:
+Lexus
+2019
+Other
+Other
+
+PA1
+Customer Information:
+Floro
+Mirinda
+6517 Nearest Street
+8126125423
+80000.0
+Inactive
+Business
+Vehicle Info:
+Honda
+2017
+Hatchback
+Used
+
+PA2
+Customer Information:
+Roosevelt
+Intan
+1001 Brown Ave
+8126742233
+60000.0
+Inactive
+Both
+Vehicle Info:
+Ford
+2018
+Sedan
+Other
+
+PA1
+Customer Information:
+Safa
+Javi
+6007 Research Ave
+8259841623
+400000.0
+Active
+Personal
+Vehicle Info:
+Ferrari
+2020
+Sport
+New
+
